@@ -2,6 +2,8 @@
 A nostalgic, offline‑first desktop countdown **timer** inspired by classic Windows PowerToys.
 It floats on your desktop, always on top, and stays out of your way.
 
+**Hint:** You can click on timer to stop its alarm. You can right-click on timer to get some menu items. You can choose your own `.wav` file for alarm by browsing it from your hard memory, which is available from tray menu. The alarm can be played once, every 5 seconds, every 10 seconds, and etc.; based on user's choice. Also, you can have multiple timers, and a few other options all from **tray menu** of the app in **system tray**.
+
 ## Features
 
 - **Multiple independent timers** – open as many as you need.
@@ -15,7 +17,7 @@ It floats on your desktop, always on top, and stays out of your way.
 - **Single portable executable** – no installation required.
 
 ## This archive includes the executable program: **DesktopCountdown.exe**, which is suitable for **Windows 10** and over. You should click on the executable to run.
-[Download the archive for win64](https://drive.google.com/file/d/1A6ZHwODnU9S4QRf8A54bAPF4n1BI1-2Y/view?usp=sharing)
+[Download the archive for win64](https://drive.google.com/file/d/1L7D8H2JUucnBk3YXsFPVKjrw9qaCOJat/view?usp=sharing)
 ---
 
 <table>
