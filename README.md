@@ -2,7 +2,7 @@
 A nostalgic, offline‑first desktop countdown **timer** inspired by classic Windows PowerToys.
 It floats on your desktop, always on top, and stays out of your way.
 
-**Hint:** You can click on timer to stop its alarm. You can right-click on timer to get some menu items. You can choose your own `.wav` file for alarm by browsing it from your hard memory, which is available from tray menu. The alarm can be played once, every 5 seconds, every 10 seconds, and etc.; based on user's choice. Also, you can have multiple timers, and a few other options all from **tray menu** of the app in **system tray**.
+**Hint:** You can click on timer to stop its alarm. You can right-click on timer to get some menu items. You can choose your own `.wav` file for alarm by browsing it from your hard drive, which is available from tray menu. The alarm can be played once, every 5 seconds, every 10 seconds, and etc.; based on user's choice. Also, you can have multiple timers, and a few other options all from **tray menu** of the app in **system tray**.
 
 ## Features
 
