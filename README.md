@@ -17,7 +17,7 @@ It floats on your desktop, always on top, and stays out of your way.
 - **Single portable executable** – no installation required.
 
 ## This archive includes the executable program: **DesktopCountdown.exe**, which is suitable for **Windows 10** and over. You should click on the executable to run.
-[Download the archive for win64](https://drive.google.com/file/d/1L7D8H2JUucnBk3YXsFPVKjrw9qaCOJat/view?usp=sharing)
+[Download the archive for win64](https://drive.google.com/file/d/1hAxpMENMSwGIM4koH3MOcGpJ8LMQfv9K/view?usp=sharing)
 ---
 
 <table>
